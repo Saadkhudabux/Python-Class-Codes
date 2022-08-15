@@ -1,0 +1,8 @@
+# print("Hello World")
+# print('This is our assignment')
+# print("I'm really excited")
+# print('''Feels so astonishing   !''')
+# print('As i always wanted to be a programmer')
+# print("   Very much passionate and greatful")
+# print("  For Being a Student of Yours  ")
+# print("It's my first program because i've no background....")
